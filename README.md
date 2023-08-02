@@ -4,5 +4,5 @@ now merged into [TLA+ canon](https://github.com/tlaplus/Examples/tree/master/spe
 
 ---
 
-`product` refines `stages`, and `stages` `clean`
+spec `product` refines spec `stages`, and `stages` `clean`
 
